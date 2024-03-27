@@ -1,0 +1,1 @@
+This code creates an animation of automatic typing. It starts with the text string "Automatic Typing Code" and dynamically adds characters one by one into an HTML element with a class named 'heading'. The delay between characters is set by the setTimeout function, which calls the typing function recursively to continue the automatic typing effect.
